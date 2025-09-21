@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: 122610509788.dkr.ecr.ap-southeast-1.amazonaws.com/app-repo:v1.0.0
+          image: 122610509788.dkr.ecr.ap-southeast-1.amazonaws.com/app-repo:v1.21.9
           ports:
             - containerPort: 80
